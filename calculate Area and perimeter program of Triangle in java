@@ -1,0 +1,58 @@
+Shah hussain
+Roll no 44 
+
+Questions no 1 
+Calculate area of triangle program in java
+Base of triangle is 60, and hight of trangel 
+Is 93.
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+public class AreaOfTriange
+
+{
+
+
+public static void main (String args[])
+
+
+{ float b=60,h =93,area ;
+
+
+area = ( b*h) / 2 ;
+
+
+System.out.println("Area of Triangle is: "+area);
+
+}}
+
+Output
+Area of Triangle 2790.0
+Program finished  
+◾◾◾◾◾◾◾◾◾◾◾◾◾◾
+
+
+
+
+Question no 2
+Find Perimeter of triangle program in java
+Side1: 9
+Side2: 10
+Side3:11
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Public class Perimeter of triangle 
+{
+    public static void main(String[] args)
+    {
+        double side1 = 9.0; 
+        double side2 = 3.0; 
+        double side3 = 8.0;
+        double perimeter=(side1+side2+side3);
+        System.out.println("Perimeter of triangle = "+perimeter);
+    }
+}
+
+Output:
+
+Perimeter of triangle = 30.0
+
+
